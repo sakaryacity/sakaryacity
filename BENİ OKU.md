@@ -1,31 +1,52 @@
-# 👋 Merhaba
+# 🏡 Sakarya.City
 
-## Sakarya.City
+**Sakarya.City**, Sakarya ve tüm ilçelerine özel geliştirilmiş modern bir emlak platformudur.
 
-Sakarya.City, Sakarya ve tüm ilçelerine odaklanan modern bir emlak portalıdır.
+Platformumuz; bireysel satıcıları, emlak danışmanlarını, yatırımcıları ve gayrimenkul arayan kullanıcıları güvenilir bir dijital ortamda buluşturmayı amaçlamaktadır.
 
-Platform üzerinde;
+## Sunulan Hizmetler
 
-- 🏡 Satılık Daire
-- 🏠 Kiralık Daire
+- 🏠 Satılık Daire İlanları
+- 🏡 Kiralık Daire İlanları
+- 🌿 Satılık Arsa İlanları
 - 🏘️ Villa İlanları
-- 🌿 Satılık Arsa
-- 🏢 Ticari Gayrimenkul
-- 🏗️ Konut Projeleri
+- 🏢 Ticari Gayrimenkuller
+- 🏗️ Yeni Konut Projeleri
+- 🏢 Emlak Ofisi Profilleri
 - 📍 İlçe Bazlı Emlak Arama
+- 📱 Mobil Uyumlu İlan Sistemi
 
-gibi birçok emlak ilanına kolayca ulaşabilirsiniz.
+## Hizmet Verilen Bölgeler
 
-Amacımız, Sakarya'daki gayrimenkul alıcıları, satıcıları ve emlak danışmanlarını güvenilir bir platformda buluşturmaktır.
+Platform, Sakarya'nın tüm ilçelerini kapsamaktadır.
 
-## Web Sitesi
+- Adapazarı
+- Serdivan
+- Arifiye
+- Erenler
+- Sapanca
+- Akyazı
+- Hendek
+- Karasu
+- Kocaali
+- Kaynarca
+- Geyve
+- Pamukova
+- Ferizli
+- Söğütlü
+- Karapürçek
+- Taraklı
 
-🌐 https://sakarya.city
+## Misyonumuz
 
-Sakarya genelinde güncel emlak ilanlarını incelemek için web sitemizi ziyaret edebilirsiniz.
+Gayrimenkul arayan kullanıcılar ile emlak profesyonellerini hızlı, güvenilir ve kullanıcı dostu bir platformda buluşturmak.
+
+## Website
+
+👉 https://sakarya.city
+
+Sakarya.City, veri tabanını sürekli geliştirerek Sakarya'nın en kapsamlı emlak platformlarından biri olmayı hedeflemektedir.
 
 ---
 
-### Anahtar Kelimeler
-
-Sakarya Emlak • Sakarya Satılık Daire • Sakarya Kiralık Daire • Sakarya Arsa • Sakarya Villa • Serdivan Emlak • Adapazarı Emlak • Sapanca Emlak • Karasu Emlak • Kocaali Emlak
+⭐ GitHub profilimi ziyaret ettiğiniz için teşekkür ederim.
